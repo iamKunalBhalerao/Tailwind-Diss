@@ -1,7 +1,7 @@
 import "./App.css";
 import Container from "./components/Container";
 import Hero from "./components/Hero";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
